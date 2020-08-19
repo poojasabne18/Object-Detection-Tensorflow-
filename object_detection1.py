@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Aug 14 23:36:31 2020
-
-@author: Pooja
-"""
 
 
 # In[ ]:
